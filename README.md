@@ -1,6 +1,6 @@
 # PruebaSemestre2026-1
-##Descripción
+## Descripción
 Repositorio para las pruebas de github del semestre 2026-1
-##Colaboradores
+## Colaboradores
 yo
-##Esta es la rama principal
+## Esta es la rama nueva
